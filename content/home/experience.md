@@ -22,9 +22,9 @@ date_format = "Jan 2006"
   title = "Data Analyst"
   company= "Mosscare St Vincent’s Housing Group"
   company_url = ""
-   date_start = "01-12-2019"
+  date_start = "01-12-2019"
   date_end = "Present"
- description = """Developing, implementing and maintaining the Asset Management databases to enable the development, procurement, monitoring and review of asset investment programmes."""
+  description = """Developing, implementing and maintaining the Asset Management databases to enable the development, procurement, monitoring and review of asset investment programmes."""
  
 
 [[experience]]
@@ -44,7 +44,5 @@ date_format = "Jan 2006"
   date_start = "2018-04-16"
   date_end = "2018-08-30"
   description = """Carrying a speciﬁc research agenda under the supervision of Prof Wendy Olsen."""
-
-
-
+  
 +++
