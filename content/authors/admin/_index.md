@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Analyst/Research Associate in Statistics 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The University of Manchester
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Machine Learning
+- Deep Learning
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Mathematical Sciences
+    institution: The University of Manchester
+    year: 2019
+  - course: MSc in Probability and Statistics
+    institution: Center for Mathematical Research, CIMAT.
+    year: 2013
+  - course: BSc in Applied Mathematics and Computer Sciences
+    institution: National Autonomous University of Mexico, UNAM. 
     year: 2008
 
 # Social/Academic Networking
@@ -47,13 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/dapr12
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?hl=en&user=BiUfLu8AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/dapr12
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "diego.a.perez.r@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +70,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am broadly interested in statistical theory and methodology with particular interest in functional data and nonparametric statistics. Today statistics is more important that ever, because of the ease with which we can collect large amounts of data. The challenge is to sort through all of this data and separate out the consistent patterns from the noise.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+How best to use these tools is a fundamental challenge for our subject and the focus of my research.
+
+I complete my PhD in Mathematical Sciences from the University of Manchester. Before coming to Manchester, I did a MSc in Statistics and Probability at Center for Mathematical Research (CIMAT)
+
+Prior to this, I did a BSc in Applied Mathematics and Computer Science from the National Autonomous University of Mexico (UNAM).
