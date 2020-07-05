@@ -2,7 +2,7 @@
 title: American Election Analysis (2016)
 summary: Analyze the vote in favor of the Republican or Democratic party during the American elections in Python (Supervisor Tabea Rebafka).
 tags:
-- Statistics
+- Machine Learning
 date: "2015-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
