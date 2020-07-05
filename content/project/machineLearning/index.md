@@ -1,15 +1,15 @@
 ---
-title: American Election Analysis (2016)
-summary: Analyze the vote in favor of the Republican or Democratic party during the American elections in Python (Supervisor Tabea Rebafka).
+title: Machine learning for rare disease pattern recognition and analysis
+summary: We aim to develop pipelines to process the data, extract features of interest and perform classification for rare/undiagnosed diseases.
 tags:
 - Machine Learning
-date: "2015-03-01T00:00:00Z"
+date: "2020-01-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.ukbiobank.ac.uk/2020/01/machine-learning-for-rare-disease-pattern-recognition-and-analysis/"
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by IEEE
   focal_point: Smart
 
 links:
@@ -28,5 +28,3 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-I have predicted that Hillary Clinton will win :/
