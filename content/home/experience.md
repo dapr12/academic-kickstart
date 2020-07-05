@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "01-12-2019"
-  date_end = "Present"
+  date_end = ""
   description = """Developing, implementing and maintaining the Asset Management databases to enable the development, procurement, monitoring and review of asset investment programmes."""
  
 [[experience]]
