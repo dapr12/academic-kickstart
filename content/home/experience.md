@@ -17,28 +17,35 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Data Analyst"
+  company= "Mosscare St Vincent’s Housing Group"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+   date_start = "01-12-2019"
+  date_end = "Present"
+ description = """Developing, implementing and maintaining the Asset Management databases to enable the development,
+  procurement, monitoring and review of asset investment programmes."""
+ 
+
+[[experience]]
+  title = "Research Associate in Statistics"
+  company = "The University of Manchester - Department of Mathematics"
+  company_url = "https://www.manchester.ac.uk/"
+  location = "Manchester, UK"
+  date_start = "01-09-2019"
+  date_end = "30-11-2019"
+  description = """Modelling the prediction of hypoglycaemia by CGM in CHI """
+
+[[experience]]
+  title = "Research Assistant in Statistics"
+  company = "The University of Manchester"
+  company_url = "https://www.manchester.ac.uk/"
+  location = "Manchester, UK"
+  date_start = "2018-04-16"
+  date_end = "2018-08-30"
+  description = """ Carrying a speciﬁc research agenda under the supervision of Prof Wendy Olsen."""
+
+
 
 +++
