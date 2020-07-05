@@ -28,14 +28,8 @@ subtitle = ""
   
 [[feature]]
   icon = "camera-retro"
-  icon_pack = "fab"
-  name = "python"
-  description = "10%"
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fab"
-  name = "python"
+  icon_pack = "fas"
+  name = "Photography"
   description = "10%"
 
 # Uncomment to use emoji icons.
@@ -55,3 +49,4 @@ subtitle = ""
 #  description = "90%"
 
 +++
+
