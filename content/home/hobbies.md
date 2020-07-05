@@ -24,13 +24,13 @@ subtitle = ""
   icon = "swimmer"
   icon_pack = "fas"
   name = "Swimming"
-  description = ""  
+  description = "Whole styles"  
   
 [[feature]]
   icon = "chess-knight"
   icon_pack = "fas"
   name = "Chess"
-  description = "80%"
+  description = "Always winner"
 
 # Uncomment to use emoji icons.
 # [[feature]]
