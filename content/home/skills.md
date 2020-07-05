@@ -33,9 +33,9 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
+  icon = "julia-language"
+  icon_pack = "custom"
+  name = "Julia"
   description = "80%"
 
 # Uncomment to use emoji icons.
