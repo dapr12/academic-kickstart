@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Diego Andres Perez Ruiz
 
 # Username (this should match the folder name)
 authors:
