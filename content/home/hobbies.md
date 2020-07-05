@@ -24,7 +24,7 @@ subtitle = ""
   icon = "swimmer"
   icon_pack = "fas"
   name = "Swimming"
-  description = "Whole styles"  
+  description = "All styles"  
   
 [[feature]]
   icon = "chess-knight"
