@@ -2,13 +2,8 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-<<<<<<< HEAD
+active = true  # Activate this widget? true/false.
 weight = 125  # Order that this section will appear.
-=======
-weight = 120  # Order that this section will appear.
->>>>>>> ce1803a9841f8af601244bfb5dc5a6bea974f93e
-
 title = "Hobbies"
 subtitle = ""
 
@@ -28,7 +23,7 @@ subtitle = ""
   icon = "swimmer"
   icon_pack = "fas"
   name = "Swimming"
-  description = "All styles"  
+  description = "All styles"
   
 [[feature]]
   icon = "chess-knight"
