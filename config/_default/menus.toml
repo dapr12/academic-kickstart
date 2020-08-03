@@ -19,11 +19,6 @@ url = "#experience"
 weight = 30
 
 [[main]]
- name = "Publications"
- url = "#publications"
- weight = 40
-
-[[main]]
 name = "Accomplishments"
 url = "#accomplishments"
 weight = 50
@@ -37,6 +32,11 @@ weight = 60
 #name = "Teaching"
 #url = "#teaching"
 #weight = 70
+
+[[main]]
+ name = "Publications"
+ url = "#featured"
+ weight = 70
 
 [[main]]
 name = "Contact"
