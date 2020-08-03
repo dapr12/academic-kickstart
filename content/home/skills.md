@@ -24,7 +24,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Data modelling\nMachine Learning"  
   
 [[feature]]
   icon = "python"
