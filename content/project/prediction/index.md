@@ -1,6 +1,6 @@
 ---
 title: Modelling the prediction of hypoglycaemia by CGM in CHI
-summary:
+summary: Parents of children with complex diseases require easily understandable information about their disease to improve health outcomes. 
 tags:
 - Machine Learning
 date: "2020-01-17T00:00:00Z"
