@@ -9,7 +9,7 @@ date: "2020-01-17T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by IEEE
+  caption: Photo by Diabetes UK
   focal_point: Smart
 
 links:
